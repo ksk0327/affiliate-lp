@@ -82,6 +82,18 @@ a {
   padding-top: 0;
 }
 
+.section--tight {
+  padding-top: 0;
+  padding-bottom: var(--space-md);
+}
+
+.section__accent {
+  font-size: 15px;
+  font-weight: bold;
+  color: var(--color-text);
+  margin-bottom: 0 !important;
+}
+
 .section__title {
   font-size: 19px;
   font-weight: bold;
